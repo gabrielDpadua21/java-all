@@ -1,4 +1,4 @@
-package all.java.java360.operadores;
+package all.java.java360.core.operadores;
 
 /**
  * Operadores de atribuição em java e incremento e decremento pre e pós

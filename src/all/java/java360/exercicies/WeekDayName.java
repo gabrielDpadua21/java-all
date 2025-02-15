@@ -1,7 +1,5 @@
 package all.java.java360.exercicies;
 
-import all.java.java360.conditionals.Switch;
-
 import java.util.Scanner;
 
 public class WeekDayName {

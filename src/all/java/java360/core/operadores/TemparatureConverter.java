@@ -1,4 +1,4 @@
-package all.java.java360.operadores;
+package all.java.java360.core.operadores;
 
 import java.util.Scanner;
 

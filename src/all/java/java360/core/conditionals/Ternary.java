@@ -1,4 +1,4 @@
-package all.java.java360.conditionals;
+package all.java.java360.core.conditionals;
 
 public class Ternary {
     public static void main(String[] args) {

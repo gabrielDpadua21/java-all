@@ -1,4 +1,4 @@
-package all.java.java360.conditionals;
+package all.java.java360.core.conditionals;
 
 /**
  * Estruturas de seleção com IF/ELSE
