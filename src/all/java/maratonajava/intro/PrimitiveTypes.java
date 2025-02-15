@@ -19,6 +19,9 @@ public class PrimitiveTypes {
         short number = 2;
         long value = 10L;
         boolean isTrue = true;
+        boolean isFalse = false;
+        char ascChar = '\u1170';
+        char hi = '\u0FD6';
 
         System.out.println(printType(age, Integer.class) + ", value: " + age);
         System.out.println(printType(size, Double.class) + ",  value: " + size);
@@ -28,5 +31,8 @@ public class PrimitiveTypes {
         System.out.println(printType(number, Short.class) + ", value: " + number);
         System.out.println(printType(value, Long.class) + ", value: " + value);
         System.out.println(printType(isTrue, Boolean.class) + ", value: " + isTrue);
+        System.out.println(printType(isFalse, Boolean.class) + ", value: " + isFalse);
+        System.out.println(printType(ascChar, Character.class) + ", value: " + ascChar);
+        System.out.println(printType(hi, Character.class) + ", value: " + hi);
     }
 }
