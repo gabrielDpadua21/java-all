@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"all.java.leetcode","c":"TwoSumBasic","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"all.java.leetcode","c":"TwoSumBasic","l":"twoSum(int[], int)","u":"twoSum(int[],int)"},{"p":"all.java.leetcode","c":"TwoSumBasic","l":"TwoSumBasic()","u":"%3Cinit%3E()"}];updateSearchResults();

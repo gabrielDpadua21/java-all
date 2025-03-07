@@ -2,8 +2,22 @@ package all.java.leetcode;
 
 import java.util.Arrays;
 
+/**
+ *
+ * @autor Gabriel D. Padua
+ * @version 1.0
+ * @since 1.0
+ */
 public class TwoSumBasic {
 
+    // FIXME: criar método mais eficiente
+
+    /**
+     *
+     * @param nums
+     * @param target
+     * @return
+     */
     public static int[] twoSum(int[] nums, int target) {
         int [] index = new int[2];
 
@@ -20,6 +34,8 @@ public class TwoSumBasic {
     }
 
     public static void main(String[] args) {
+
+        // TODO: adcionar teste unitário
 
         int[] values = twoSum(new int[]{3, 2, 4}, 6);
 

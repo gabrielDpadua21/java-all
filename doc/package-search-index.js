@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"all.java.leetcode"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
